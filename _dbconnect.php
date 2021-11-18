@@ -2,8 +2,8 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "shahnawazjawed";
-$database = "online_banking";
+$password = "  ";
+$database = " ";
 
 $conn = mysqli_connect($servername, $username, $password, $database);
 // if($conn){
